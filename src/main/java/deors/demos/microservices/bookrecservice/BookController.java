@@ -1,4 +1,4 @@
-package deors.demos.microservices;
+package deors.demos.microservices.bookrecservice;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;

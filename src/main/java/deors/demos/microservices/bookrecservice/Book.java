@@ -1,4 +1,4 @@
-package deors.demos.microservices;
+package deors.demos.microservices.bookrecservice;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

@@ -1,4 +1,4 @@
-package deors.demos.microservices;
+package deors.demos.microservices.bookrecservice;
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;

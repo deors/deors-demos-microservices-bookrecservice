@@ -1,13 +1,13 @@
-package deors.demos.microservices;
+package deors.demos.microservices.bookrecservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @org.springframework.cloud.client.discovery.EnableDiscoveryClient
-public class Application {
+public class BookrecserviceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(BookrecserviceApplication.class, args);
 	}
 }
