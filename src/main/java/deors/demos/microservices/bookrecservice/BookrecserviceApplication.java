@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @org.springframework.cloud.client.discovery.EnableDiscoveryClient
 public class BookrecserviceApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(BookrecserviceApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(BookrecserviceApplication.class, args);
+    }
 }
